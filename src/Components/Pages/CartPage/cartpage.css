@@ -1,0 +1,28 @@
+.cp-table {
+  border: 2px solid grey;
+}
+
+.cp-tr1 {
+  border: 2px solid grey;
+}
+
+th {
+  width: 300px;
+  border: 2px solid grey;
+}
+
+td {
+  width: 300px;
+  border: 2px solid grey;
+}
+
+.cp-h1 {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.shrt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
